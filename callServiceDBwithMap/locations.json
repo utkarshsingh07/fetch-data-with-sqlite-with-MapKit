@@ -1,0 +1,52 @@
+
+[
+    {
+      "id": "1",
+      "name": "Vijay nagar",
+      "lati": 22.758521600000000000,
+      "longi": 75.891155000000020000,
+      "imageurl": "http://qsoftmediappstore.com/waseefapi/Media/Iphone5/BarwaCity/4r.jpg"
+    },
+                
+    {
+      "id": "2",
+      "name": "palasia",
+      "lati":22.758521600000000000,
+      "longi": 75.891155000000020000,
+      "imageurl": "http://qsoftmediappstore.com/waseefapi/Media/Iphone5/BarwaCity/4s.jpg"
+    },
+                
+    {
+      "id": "3",
+      "name": "gangwal",
+      "lati": 22.712595600000000000,
+      "longi":  75.841139500000050000 ,
+      "imageurl": "http://qsoftmediappstore.com/waseefapi/Media/Iphone5/BarwaCity/4t.jpg"
+    },
+                
+    {
+      "id": "4",
+      "name": "annapurna",
+      "lati": 22.685708300000000000,
+      "longi": 75.836301899999970000,
+      "imageurl": "http://qsoftmediappstore.com/waseefapi/Media/Iphone5/BarwaCity/4u.jpg"
+    },
+                
+    {
+      "id": "5",
+      "name": "khandwa road",
+      "lati": 22.691968500000000000,
+      "longi": 75.868032699999960000,
+      "imageurl": "http://qsoftmediappstore.com/waseefapi/Media/Iphone5/BarwaCity/4v.jpg"
+    },
+                
+     {
+      "id": "6",
+      "name": "Choithram stand",
+      "lati": 22.683110800000000000,
+      "longi": 75.855856200000060000,
+      "imageurl": "http://qsoftmediappstore.com/waseefapi/Media/Iphone5/BarwaCity/4w.jpg"
+    }
+
+
+  ]
